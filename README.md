@@ -1,4 +1,4 @@
-# CMU_panoto_download
+# CMU_panopto_download
 
  Just a simple panoto downloader.
 
